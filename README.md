@@ -15,6 +15,8 @@ student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (
 
 The effect on the District Summary was limited. Average Math Scores were roughly the same as was reading score. Our understanding of the exact changes is limited due to our formatting efforts to round the scores. The percentage of students passing was more affected, with a slightly smaller percentage of students passing each subject and overall. Previously, 74.98% of students passed math, 85.81% of students passed reading, and 65.17% passed both overall. After removing the inaccurate data, the new scores are 74.8%, 85.7%, and 64.9%, respectively.
 
+![new_districtsummary](new_districtsummary.png)
+
 ### Effects on School Summary
 
 
