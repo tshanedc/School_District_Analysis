@@ -22,7 +22,9 @@ The effect on the District Summary was limited. Average Math Scores were roughly
 ![Old_districtsummary](Old_districtsummary.png)
 
 ### Effects on School Summary
+There was little effect overall from dropping the inaccurate data.
 
+![lgdataframe](lgdataframe.png)
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
