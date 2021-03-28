@@ -27,15 +27,18 @@ There was little effect overall from dropping the inaccurate data.
 ![lgdataframe](lgdataframe.png)
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Thomas High School was outperforming the average performance and by removing the ninth grade scores, overall performance from ninth graders likely dropped.
 
-
-### How does replacing the ninth-grade scores affect the following:
-#### Math and reading scores by grade
-
-#### Scores by school spending
-
-#### Scores by school size
-#### Scores by school type
+- Math and reading scores beyond ninth grade were not effected.
+- Schools with more spending typically did not do as well on tests. 
+- Smaller schools tend to perform better than larger schools.
+- Charter schools tended to do better than district schools
 
 ## Summary - Four Major Changes
+There were not any major changes in the rank of the top five schools or the bottom five schools. 
+### Top 5 Schools
+![TOP5](https://user-images.githubusercontent.com/77986734/112770303-1b6f4000-8ff4-11eb-9db5-f1068d4df1ce.png)
+### Bottom 5 Schools
+![bottom5](https://user-images.githubusercontent.com/77986734/112770315-2d50e300-8ff4-11eb-8947-acbe48bd057a.png)
+
 
