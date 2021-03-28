@@ -7,9 +7,9 @@ Additionally, there is a case of academic dishonesty present in Thomas High Scho
 
 ## Results
 To remove the inaccurate data from Thomas High School's 9th graders, we imported Numpy and then used the loc method to replace first the math scores, and then the reading scores, of Thomas High School Ninth graders. The faulty data was replaced with NaN to signify that they were not a number. Changing this to 0 in this case would have severly altered the data. This method made the scores "invisible" to a degree.
-
+```
 student_data_df.loc[(student_data_df["school_name"] == "Thomas High School") & (student_data_df["grade"] == "9th"), "reading_score"] = np.nan
-
+```
 
 ### Effect on District Summary
 
